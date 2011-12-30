@@ -1,0 +1,29 @@
+EXPORTS
+	hid_set_debug
+	hid_set_debug_stream
+	hid_set_usb_debug
+	hid_new_HIDInterface
+	hid_delete_HIDInterface
+	hid_reset_HIDInterface
+	hid_init
+	hid_cleanup
+	hid_is_initialised
+	hid_open
+	hid_force_open
+	hid_close
+	hid_is_opened
+	hid_get_input_report
+	hid_set_output_report
+	hid_get_feature_report
+	hid_set_feature_report
+	hid_get_item_value
+	hid_write_identification
+	hid_dump_tree
+	hid_interrupt_read
+	hid_interrupt_write
+	hid_set_idle
+	hid_find_object
+
+
+
+

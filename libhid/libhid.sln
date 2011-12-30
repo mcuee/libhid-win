@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libhid", "libhid.vcproj", "{795A4078-961F-426A-9D8D-A8384C0A98CD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "..\test\test.vcproj", "{2BCCAB22-B7B0-40F7-B397-A5D925F1FE8C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test2", "..\test2\test2.vcproj", "{A6F6C334-A0B1-49EF-AB1B-7918A014DFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795A4078-961F-426A-9D8D-A8384C0A98CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{795A4078-961F-426A-9D8D-A8384C0A98CD}.Debug|Win32.Build.0 = Debug|Win32
+		{795A4078-961F-426A-9D8D-A8384C0A98CD}.Release|Win32.ActiveCfg = Release|Win32
+		{795A4078-961F-426A-9D8D-A8384C0A98CD}.Release|Win32.Build.0 = Release|Win32
+		{2BCCAB22-B7B0-40F7-B397-A5D925F1FE8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2BCCAB22-B7B0-40F7-B397-A5D925F1FE8C}.Debug|Win32.Build.0 = Debug|Win32
+		{2BCCAB22-B7B0-40F7-B397-A5D925F1FE8C}.Release|Win32.ActiveCfg = Release|Win32
+		{2BCCAB22-B7B0-40F7-B397-A5D925F1FE8C}.Release|Win32.Build.0 = Release|Win32
+		{A6F6C334-A0B1-49EF-AB1B-7918A014DFA2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6F6C334-A0B1-49EF-AB1B-7918A014DFA2}.Debug|Win32.Build.0 = Debug|Win32
+		{A6F6C334-A0B1-49EF-AB1B-7918A014DFA2}.Release|Win32.ActiveCfg = Release|Win32
+		{A6F6C334-A0B1-49EF-AB1B-7918A014DFA2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

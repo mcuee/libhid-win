@@ -1,0 +1,1 @@
+#define PACKAGE_STRING "libhid 0.2.16.0.0"
